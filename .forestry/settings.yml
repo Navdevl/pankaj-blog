@@ -11,8 +11,8 @@ sections:
   match: "**/*"
   templates:
   - blog
-upload_dir: static/uploads
-public_path: "/static/uploads"
+upload_dir: "../assets"
+public_path: "../assets"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
