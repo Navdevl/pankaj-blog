@@ -4,6 +4,7 @@ date: 2019-09-02T18:30:00Z
 description: PDW - Product discovery Workshop, which is like our go-to guide for all
   new projects Skcript works on. Why do we need PDW? Why not jump into a tech discussion
   or development directly?
+slug: pdw-are-so-important
 
 ---
 _Originally posted on_ [_https://www.skcript.com/insights/pdw-s-are-so-important-that-we-created-a-compressed-version-for-the-busy-bees/_](https://www.skcript.com/insights/pdw-s-are-so-important-that-we-created-a-compressed-version-for-the-busy-bees/ "https://www.skcript.com/insights/pdw-s-are-so-important-that-we-created-a-compressed-version-for-the-busy-bees/")

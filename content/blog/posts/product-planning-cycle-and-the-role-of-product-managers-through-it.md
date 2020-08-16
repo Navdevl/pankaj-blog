@@ -4,6 +4,7 @@ date: 2019-08-19T18:30:00Z
 description: The role of a product manager is more crucial to a product. Product manager’s
   involvement doesn’t stop with just planning the development of the product; it goes
   way beyond that.
+slug: product-planning-cycle-and-the-role
 
 ---
 _Originally posted on_ [_https://www.skcript.com/insights/product-planning-cycle-and-the-role-of-product-managers-through-it/_](https://www.skcript.com/insights/product-planning-cycle-and-the-role-of-product-managers-through-it/ "https://www.skcript.com/insights/product-planning-cycle-and-the-role-of-product-managers-through-it/")

@@ -5,6 +5,7 @@ description: There are a ton of things you should do before a meeting. But there
   few things, that we tend to miss before a meeting which in-turn may lead to bad
   impression. Risking in meetings might reflect badly on the profile of your organization
   or on your personal image and here are few not-to-do points before a meeting.
+slug: what-not-to-do-before-a-meeting
 
 ---
 _Originally posted in_ [_https://www.skcript.com/insights/what-not-to-do-before-a-meeting/_](https://www.skcript.com/insights/what-not-to-do-before-a-meeting/ "https://www.skcript.com/insights/what-not-to-do-before-a-meeting/")
