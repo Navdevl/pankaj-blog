@@ -3,7 +3,7 @@ module.exports = {
     title: `Pankaj Haritha's blog`,
     author: {
       name: `Pankaj Harita`,
-      summary: `- Picky Foodie; Good in scrolling; I am my best motivator; 3000 and 9¾ are my favourite numbers (If you know what I mean); Eco-friendly over human-friendly`,
+      summary: `- Picky Foodie; Good in scrolling; Eco-friendly over human-friendly.`,
     },
     description: `Product manager at day. Learner at life.`,
     siteUrl: `https://pankajharita.netlify.app/`,
