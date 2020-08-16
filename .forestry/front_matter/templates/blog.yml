@@ -28,4 +28,5 @@ fields:
   label: Description
   description: SEO content takes this value.
 pages:
+- content/blog/product-planning-cycle-and-the-role-of-product-managers-through-it.md
 - content/blog/what-not-to-do-before-a-meeting.md
