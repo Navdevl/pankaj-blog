@@ -7,6 +7,8 @@ description: There are a ton of things you should do before a meeting. But there
   or on your personal image and here are few not-to-do points before a meeting.
 
 ---
+_Originally posted in_ [_https://www.skcript.com/insights/what-not-to-do-before-a-meeting/_](https://www.skcript.com/insights/what-not-to-do-before-a-meeting/ "https://www.skcript.com/insights/what-not-to-do-before-a-meeting/")
+
 ## Miss the invite:
 
 Missing on the calendar invite or misreading the invite might be one of the biggest mistakes you could do before going to a meeting. The reason being, the calendar invite will have timings, location and other details that you wouldn’t want to miss. Asking one too many questions on information that is already provided in the invite is another way to showcase your dumbness. Keep track of all your invites to avoid any post-guilt trips.
