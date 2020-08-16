@@ -27,3 +27,5 @@ fields:
       format: markdown
   label: Description
   description: SEO content takes this value.
+pages:
+- content/blog/what-not-to-do-before-a-meeting.md
