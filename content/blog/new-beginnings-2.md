@@ -1,113 +1,110 @@
 ---
-title: New Beginnings 2
-date: 2015-05-28T22:40:32.169Z
-description: This is a custom description for SEO and Open Graph purposes, rather
-  than the default generated excerpt. Simply add a description field to the frontmatter.
+title: PDW’s are so important that we created a compressed version for the busy bees
+date: 2019-09-02T18:30:00Z
+description: PDW - Product discovery Workshop, which is like our go-to guide for all
+  new projects Skcript works on. Why do we need PDW? Why not jump into a tech discussion
+  or development directly?
 
 ---
-![Profile](../assets/profile-pic.jpg)
+We have written an extensive article on [PDW - Product discovery Workshop](https://www.skcript.com/svr/how-to-run-product-discovery-workshop-at-your-company/), which is like our go-to guide for all new projects Skcript works on. Why do we need PDW? Why not jump into a tech discussion or development directly?
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+* Miscalculation of the timeline and value
+* Missing out on the requirements
+* Under/Over validation of the idea
+* Not choosing the best tools for the development of the ideaÂ
+* Bringing in the right people and selecting the right resources for working on the idea.
 
-## On deer horse aboard tritely yikes and much
+Technology decision and choices are best made after identifying and understanding the requirements well as enabled by the PDW. We have compressed the three-day workshop for all the busy CXOs and teams, to imply the importance of PDW and keeping in mind the time constraints of the stakeholders. The steps are as listed below.
 
-![](../assets/gatsby-icon.png)
+**Pre-workshop steps:**
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+### Step 1:
 
-* This however showed weasel
-* Well uncritical so misled
-  * this is very interesting
-* Goodness much until that fluid owl
+Discuss the one-line description of the project. The idea head or the product person will explain the one-line description of the product.
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+### Step 2:
 
-### Overlaid the jeepers uselessly much excluding
+Gather all documents, materials that can explain the requirements and idea better. As a preparation before the PDW, the execution team representatives should be well educated on the context, a high-level overview of the product and its features.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+### Step 3:
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+Check the availability of the team and plan for an on-call PDW. Things to remember while planning the compressed PDW.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+* The right group of participants
+* Asking the right questions
+* Being prepared to pivot from the plan
+* Capturing the unexpected
 
-### According a funnily until pre-set or arrogant well cheerful
+The master takes up the responsibility of gathering the right team, plan for the meeting based on the availability. A well allocated 60-90 mins are suggested.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+**PDW:**
 
-1. So baboon this
-2. Mounted militant weasel gregariously admonishingly straightly hey
-3. Dear foresaw hungry and much some overhung
-4. Rash opossum less because less some amid besides yikes jeepers frenetic
-   impassive fruitlessly shut
+### Step 4:
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+Time to be consumed: 30 - 40 mins.
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+I am categorizing the method into two; a workshop for building a new idea and workshop for revamping/iterating an existing product/project.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+**4.1:**
 
-#### Silent delightfully including because before one up barring chameleon
+Workshop for revamping/iterating an existing product/project - Agenda
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+* Identify the end goals
+* What is the new feature the stakeholders are trying to achieve?
+* How would the stakeholders like the new version to be perceived?
+* Reason for revamp?
+* Improvements that are expected to be achieved.
+* Inspirations that stakeholders want.
+* Cleaning the existing feature set by deciding what goes on and what gets left behind.
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+**4.2:**
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+Workshop for building a new idea:
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+* The end goal stakeholders are trying to achieve.
+* Problem statement and the solution we are aiming to provide.
+* USP of the product
+* Competitors in the market and existing inspirations.
+* The complexity of the features and the critical feature to be highlighted
+* Roadmap and future scope as perceived by the Stakeholders, to plan the expansion of the product.
+* List the features that will be built.
 
-###### Slapped cozy a that lightheartedly and far
+The weight of getting the stakeholders and the team to answer the above is on the master. The others should be actively evaluating the suggested points.
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+More information is appreciated but deviating from the goal is highly possible, and hence, the team should steer clear of distractions.
+
+### Step 5:
+
+Time to be consumed: 10 - 20 mins
+
+Discuss the possible tech stack that can be used in the development. This idea to be pitched by the development team lead and the tech lead from the stakeholder side will give their comments on the same.
+
+Choosing the tech stack is crucial as they are the foundation and the building blocks of the product.
+
+### Step 6:
+
+Involving both the teams is crucial. Takedown notes, as much as possible. Both the sides should take notes and share it to ensure that all points were captured.
+
+### Step 7:
+
+Time consumed: 10 - 15 mins
+
+Going through the agreed points and the requirements in brief. In other words, a sum-up of the PDW session that happened to ensure everyone is one the same page and prioritize. From the gathered information, both the teams can prioritize and the rank the points to indicate the importance. Â
+
+**Post-PDW:**
+
+### Step 8:
+
+Intimating the team about the next actionable, which will be:
+
+* The development side team to come up with a document that captures the problem statement, the solution to be provided, requirement set, inspirations as listed, tech stack to be used, and project estimation.
+* The project estimation will comprise of the development timeline, effort days and hours, and people involved.
+
+Stakeholders will have to confirm on the documents or make iteration by providing comments.
+
+**Points to remember:**
+
+* Decision-maker decision is final. There is no going back.
+* Set the agenda ahead and try to cover the crucial points.
+* Preparation is required by both teams, and letting each other know about the study to be done will help in saving time.
+* Email communications pre-workshop are encouraged.
