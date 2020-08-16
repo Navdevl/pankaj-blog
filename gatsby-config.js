@@ -3,10 +3,10 @@ module.exports = {
     title: `Pankaj Haritha's blog`,
     author: {
       name: `Pankaj Harita`,
-      summary: `who kills flies and cannot even pay them a proper funeral.`,
+      summary: `- Picky Foodie; Good in scrolling; I am my best motivator; 3000 and 9¾ are my favourite numbers (If you know what I mean); Eco-friendly over human-friendly`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Product manager at day. Learner at life.`,
+    siteUrl: `https://pankajharita.netlify.app/`,
     social: {
       twitter: `pankaj_gs`,
     },
