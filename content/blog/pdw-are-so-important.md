@@ -6,6 +6,8 @@ description: PDW - Product discovery Workshop, which is like our go-to guide for
   or development directly?
 
 ---
+_Originally posted on_ [_https://www.skcript.com/insights/pdw-s-are-so-important-that-we-created-a-compressed-version-for-the-busy-bees/_](https://www.skcript.com/insights/pdw-s-are-so-important-that-we-created-a-compressed-version-for-the-busy-bees/ "https://www.skcript.com/insights/pdw-s-are-so-important-that-we-created-a-compressed-version-for-the-busy-bees/")
+
 We have written an extensive article on [PDW - Product discovery Workshop](https://www.skcript.com/svr/how-to-run-product-discovery-workshop-at-your-company/), which is like our go-to guide for all new projects Skcript works on. Why do we need PDW? Why not jump into a tech discussion or development directly?
 
 * Miscalculation of the timeline and value
