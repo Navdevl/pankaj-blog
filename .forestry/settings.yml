@@ -4,13 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
+- type: document
   path: content/blog
-  label: Posts
-  create: all
+  label: Blog Posts
   match: "**/*"
-  templates:
-  - blog
 upload_dir: "../assets"
 public_path: "../assets"
 front_matter_path: ''
