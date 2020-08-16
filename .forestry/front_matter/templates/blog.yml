@@ -7,12 +7,22 @@ fields:
   config:
     required: false
   label: Title
-- name: published_at
+- name: date
   type: datetime
-  label: Published at
-  description: ''
+  label: Date
+  description: Published at
   config:
     required: false
     date_format: 
     time_format: 
     display_utc: false
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+  description: SEO content takes this value.
